@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785840477912",
+    "firebase_url": "https://droidconcicddemo.firebaseio.com",
+    "project_id": "droidconcicddemo",
+    "storage_bucket": "droidconcicddemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785840477912:android:94b810beb326d0c8b6a9ad",
+        "android_client_info": {
+          "package_name": "com.multimeleon.cicddemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785840477912-bc2qp0s04ph6g5o4pdomis477l16vmru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWZV1F01ulYIZq4KyR6fbgUxbMGv5Uuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785840477912-bc2qp0s04ph6g5o4pdomis477l16vmru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
